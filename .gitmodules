@@ -1,0 +1,6 @@
+[submodule "lib/submodule-1"]
+	path = lib/submodule-1
+	url = https://github.com/jesperbjorkman-enfo/submodule-1.git
+[submodule "lib/submodule-2"]
+	path = lib/submodule-2
+	url = https://github.com/jesperbjorkman-enfo/submodule-2.git
